@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudentCompanionApplication</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_email_domain">Please enter email within correct domain</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_whitespace_inEmail">There cannot be any spaces in the email</string>
+    <string name="error_field_required">This field cannot be left empty</string>
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+    <string name="spinner_title">Spinner </string>
+</resources>
